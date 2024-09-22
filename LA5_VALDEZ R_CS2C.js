@@ -1,3 +1,4 @@
+// Strings
 let favActorFirstName = "Coco";
 let favActorLastName = "Martin";
 let fullName = favActorFirstName + " " + favActorLastName; 
